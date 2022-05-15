@@ -1,0 +1,15 @@
+name: Lobby
+version: '${project.version}'
+main: me.moontimer.lobby.Lobby
+authors: [ MoonTimer ]
+description: LobbyCasual
+website: https://casualmc.net
+softdepend: [Api]
+commands:
+  setlocation:
+  gadget:
+  setshop:
+  settings:
+    aliases:
+      - setting
+      - einstellungen
